@@ -69507,6 +69507,19 @@
         "version": "3.0.39"
     },
     {
+        "id": "286F9C44-811C-4BE8-AF1C-BC3741152CB3",
+        "name": "swap-reverse-bold",
+        "codepoint": "F1A24",
+        "aliases": [
+            "arrow-right-left-bold"
+        ],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Patrick Stewart",
+        "version": "6.5.95"
+    },
+    {
         "id": "11867345-3F46-40E5-91A4-4EBBE393226D",
         "name": "swap-horizontal-circle",
         "codepoint": "F0FE1",
