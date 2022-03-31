@@ -11372,6 +11372,16 @@
         "version": "1.5.54"
     },
     {
+        "id": "0B3376D2-4104-4590-B11F-C57DAEA30F2C",
+        "name": "blank",
+        "codepoint": "F1A25",
+        "aliases": [
+            "space"
+        ],
+        "author": "Patrick Stewart",
+        "version": "6.5.95"
+    },
+    {
         "id": "AC980D29-7F19-4356-970E-A147CFEB64E3",
         "name": "blender",
         "codepoint": "F0CEB",
